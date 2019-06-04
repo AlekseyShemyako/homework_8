@@ -94,3 +94,30 @@ img {
 .picture img:nth-child(16) {
 	z-index: 1;
 }
+.picture {
+	padding-top: 559px;
+}
+.data {
+	text-align: center;
+}
+h1 {
+	margin: 0 auto 32px;
+}
+p {
+	margin: 0 auto;
+	display: block;
+	font-size: 18px;
+	width: 249px;
+	line-height: 32px;
+	color: #99a0af;
+}
+button {
+	min-width: 170px;
+	margin: 43px auto 211px;
+	border-radius: 25px;
+	background-color: #fe8502;
+	border: 15px solid #fe8502;
+	font-size: 18px;
+	color: #ffffff;
+	text-align: center;
+}
