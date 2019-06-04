@@ -1,0 +1,17 @@
+body{
+	margin: 0;
+	background-color: #233445;
+}
+.container {
+	width: 670px;
+	height: 1003px;
+	border-radius: 15px;
+	background-color: #fff;
+	margin: 99px auto;
+	position: relative;
+}
+.cross {
+	position: relative;
+	left: 623px;
+	top: 32px;
+}
