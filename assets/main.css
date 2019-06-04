@@ -105,7 +105,7 @@ img {
 	text-align: center;
 	font-family: 'Arial Rounded MT Bold';
 }
-h1 {
+h1 .data {
 	margin: 0 auto 32px;
 }
 p {
