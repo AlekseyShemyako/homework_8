@@ -34,7 +34,7 @@ body {
 	padding-top: 559px;
 	box-sizing: border-box;
 }
-.popup button:first-child {
+.exit {
 	position: absolute;
 	top: 32px;
 	left: 623px;
@@ -68,7 +68,7 @@ body {
 	margin: 0 0 42px 0;
 	padding: 0 50px;
 }
-.popup button:last-child {
+.chat {
 	width: 170px;
 	height: 50px;
 	border-radius: 25px;
@@ -82,6 +82,6 @@ body {
 	margin: 0 auto 211px;
 	text-transform: capitalize;
 }
-.popup button:last-child:focus {
+.popup button:last-child:hover {
 	background: red;
 }
