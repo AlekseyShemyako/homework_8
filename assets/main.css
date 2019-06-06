@@ -35,7 +35,7 @@ body {
 	box-sizing: border-box;
 }
 .popup button:first-child {
-	position: fixed;
+	position: absolute;
 	top: 32px;
 	left: 623px;
 	padding: 0;
